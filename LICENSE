@@ -1,0 +1,9 @@
+Following described steps in the guidance about localization:
+
+https://github.com/firebase/firebaseui-web
+
+Current package is just RU version / localized build for the firebaseui package.
+
+Compatible with firebase@9.13.0 .
+
+Let's agreed that this was made for personal usage. If you gonna use it, let's clarify, that the owner of the repo is not responsible for anything.
